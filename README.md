@@ -1,7 +1,7 @@
 # Doing Image Classification with RNN 
 
 ## Description 
-Using RNN to do Image Classificaton. ()
+Using RNN to do Image Classificaton.
 
 
 ## How it Works? 
